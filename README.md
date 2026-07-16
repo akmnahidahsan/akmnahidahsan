@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/akmnahidahsan/akmnahidahsan/main/banner.png" width="100%" alt="GitHub Banner">
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Akm+Nahid+Ahsan;Ethical+Hacking+%7C+Penetration+Testing;OSINT+%7C+Full+Stack+Developer;Always+Learning+%E2%80%A2+Always+Evolving" alt="Typing SVG" />
 </p>
 

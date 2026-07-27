@@ -18,9 +18,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akmnahidahsann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akmnahidahsann)
 
-[![Discord Profile](https://img.shields.io/badge/Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/akmnahidahsan
-)
-
 [![Discord Server](https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8t2Z4jx3T)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akmnahidahsan_)

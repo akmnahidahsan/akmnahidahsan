@@ -65,9 +65,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmnahidahsan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmnahidahsan&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akmnahidahsan&show_icons=true&theme=onedark" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmnahidahsan&theme=onedark" alt="Streak Stats" />
 </p>
 
 ---
@@ -75,9 +75,10 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akmnahidahsan&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akmnahidahsan&theme=onedark&row=1" alt="Trophies" />
+  </a>
 </p>
-
 ---
 
 # 📈 Contribution Graph

@@ -64,7 +64,13 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=akmnahidahsan&show_icons=true&theme=tokyonight&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=akmnahidahsan&theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=akmnahidahsan&show_icons=true&theme=tokyonight&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=akmnahidahsan&theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&theme=tokyonight&hide_border=true) 
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akmnahidahsan&show_icons=true&theme=onedark" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&theme=onedark" alt="Top Languages" />
+</p>
+
 
 ---
 
@@ -75,6 +81,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=akmnahidahsan&theme=onedark&row=1" alt="Trophies" />
   </a>
 </p>
+
 ---
 
 # 📈 Contribution Graph

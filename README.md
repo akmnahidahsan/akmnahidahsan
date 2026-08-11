@@ -18,7 +18,7 @@
       <a href="https://facebook.com/akmnahidahsann"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
       <a href="https://instagram.com/akmnahidahsann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
       <a href="https://linkedin.com/in/akmnahidahsann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://discord.gg/PuMsrcY3f"><img src="https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+      <a href="https://discord.gg/9AXCRyayax"><img src="https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
       <a href="https://x.com/akmnahidahsan_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
       <a href="https://youtube.com/@akmnahidahsann"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
       <a href="https://pinterest.com/akmnahidahsan"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>

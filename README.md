@@ -127,13 +127,13 @@ Exploring practical projects that combine cybersecurity, web development, automa
 
 <tr>
 <td>
-<a href="https://github.com/akmnahidahsan/ethical-hacking-roadmap">
-<strong>Ethical Hacking Roadmap</strong>
+<a href="https://github.com/akmnahidahsan/reconx">
+<strong>ReconX</strong>
 </a>
 </td>
 
 <td>
-A structured roadmap for learning ethical hacking and cybersecurity concepts from the fundamentals to practical security topics.
+A simple, sequential, and beginner-friendly web reconnaissance guide for authorized security testing.
 </td>
 
 <td>
@@ -159,6 +159,7 @@ HTML · CSS · JavaScript
 
 <tr>
 <td>
+<a href="#">
 <strong>FocusLock</strong>
 </td>
 

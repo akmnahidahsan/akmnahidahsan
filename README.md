@@ -159,7 +159,7 @@ HTML · CSS · JavaScript
 
 <tr>
 <td>
-<a href="#">
+<a href="https://nothingpro.netlify.app/">
 <strong>FocusLock</strong>
 </td>
 

@@ -260,13 +260,13 @@ Only verified certification information will be listed here.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akmnahidahsan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=akmnahidahsan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB&rank_icon=github" width="49%" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=akmnahidahsan&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akmnahidahsan&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="49%" alt="GitHub contribution streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmnahidahsan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" width="45%" alt="Most used languages" />
 
 </div>
 

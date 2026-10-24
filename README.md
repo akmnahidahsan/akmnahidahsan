@@ -60,11 +60,11 @@ I'm **Akm Nahid Ahsan** — a cybersecurity enthusiast and aspiring developer in
 ### 🛡️ Cybersecurity & Ethical Hacking
 
 Learning and practicing cybersecurity concepts through hands-on labs, security tools, research, and practical exercises.
-
+<!--
 <br/>
 
 <sub>Focus: Ethical Hacking · Penetration Testing · Linux · Web Security</sub>
-
+-->
 </td>
 
 <td width="50%" valign="top">
@@ -72,11 +72,11 @@ Learning and practicing cybersecurity concepts through hands-on labs, security t
 ### 🔎 OSINT & SignalWatch
 
 Working on **SignalWatch**, an OSINT and cybersecurity community focused on learning, research, practical exercises, and security awareness.
-
+<!--
 <br/>
 
 <sub>Focus: OSINT · Cybersecurity · Research · Community</sub>
-
+-->
 </td>
 
 </tr>
@@ -88,9 +88,9 @@ Working on **SignalWatch**, an OSINT and cybersecurity community focused on lear
 ### 💻 Full-Stack Development
 
 Currently learning full-stack development and building projects to strengthen my understanding of modern web technologies.
-
+<!--
 <br/>
-
+-->
 <sub>Status: Currently Learning · Building · Experimenting</sub>
 
 </td>
@@ -100,11 +100,11 @@ Currently learning full-stack development and building projects to strengthen my
 ### 🧩 Personal Projects
 
 Exploring practical projects that combine cybersecurity, web development, automation, and problem-solving.
-
+<!--
 <br/>
 
 <sub>Goal: Learn by building real projects</sub>
-
+-->
 </td>
 
 </tr>
@@ -354,9 +354,8 @@ Only verified certification information will be listed here.
 
 <img src="https://komarev.com/ghpvc/?username=akmnahidahsan&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED" alt="Profile views" />
 
-<br/><br/>
+<br/>
 
-### `Learn. Build. Secure.`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,55:7C3AED,100:06B6D4&height=120&section=footer" width="100%" alt="Purple and cyan footer" />
 

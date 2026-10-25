@@ -90,9 +90,9 @@ Working on **SignalWatch**, an OSINT and cybersecurity community focused on lear
 Currently learning full-stack development and building projects to strengthen my understanding of modern web technologies.
 <!--
 <br/>
--->
-<sub>Status: Currently Learning · Building · Experimenting</sub>
 
+<sub>Status: Currently Learning · Building · Experimenting</sub>
+-->
 </td>
 
 <td width="50%" valign="top">

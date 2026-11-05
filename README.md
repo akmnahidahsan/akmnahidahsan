@@ -143,7 +143,7 @@ Markdown
 
 <tr>
 <td>
-<a href="https://github.com/akmnahidahsan/minimal-auth-ui">
+<a href="https://akmnahidahsan.github.io/minimal-auth-ui">
 <strong>Minimal Auth UI</strong>
 </a>
 </td>
